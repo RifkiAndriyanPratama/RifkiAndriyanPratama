@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Rifki!</strong></summary>
 
 Lifelong Learner, currently working as budagh kompeni.
 
