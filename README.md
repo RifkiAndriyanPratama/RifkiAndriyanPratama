@@ -23,7 +23,9 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="kali-linux" width="55" height="55"/>
 </p>
+
 
 
 
