@@ -18,5 +18,11 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" alt="bootstrap" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
 </p>
+
 
