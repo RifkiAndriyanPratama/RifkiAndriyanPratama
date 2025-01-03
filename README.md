@@ -8,7 +8,7 @@
 - 📖 I am currently exploring various resources to enhance my skills in these fields
 - 💬 Talk to me about coding challenges, cybersecurity threats, and best practices in software development
 - 👯 We can connect to brainstorm innovative ideas or collaborate on exciting projects
-- ⚡ Fun fact: I am the Demon King 😈
+- ⚡ Fun fact: I am the Demon King 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
