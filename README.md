@@ -2,7 +2,7 @@
 
 ```yaml
 user: Rifki Andriyan Pratama
-role: Computer Science Student
+role: Informatics Student
 os: Arch Linux (I use Arch BTW)
 editor: Neovim (NvChad)
 focus: [Automation, Artificial Intelligence, System Administration]
